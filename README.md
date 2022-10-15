@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sidshehria
-- 👀 I’m interested in Computer Science, AI & Python.
-- 🌱 I’m currently learning KOTLIN.
+- 👀 I’m interested in Computer Science, AI.
+- 🌱 Java, c & Python.
 - 💞️ I’m looking to collaborate on rightnow nothing.
 - 📫 How to reach me Sidshehria2.0@gmail.com
 
