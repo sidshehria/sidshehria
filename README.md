@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sidshehria
 - 👀 I’m interested in Web-Development, AI/ML.
 - 🌱 Java, c & Python.
-- 💞️ I’m looking to collaborate on rightnow nothing.
+- 💞️ I’m looking an web development internship right now .
 - 📫 How to reach me Sidshehria@gmail.com
 
 <!---
