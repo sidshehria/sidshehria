@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sidshehria
 - 👀 I’m interested in Web-Development, AI/ML.
-- 🌱 Java, c & Python.
-- 💞️ I’m looking an web development internship right now .
+- 🌱 Java, Springboot, Kafka, c & Python.
+- 💞️ I’m looking an SDE/Data Engineer FTE role right now .
 - 📫 How to reach me Sidshehria@gmail.com
 
 <!---
