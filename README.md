@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sidshehria
 - 👀 I’m interested in Web-Development, AI/ML.
-- 🌱 Java, Springboot, Kafka, c & Python.
+- 🌱 Java, C#, pythion, Springboot, Kafka, .NET, Microsoft Azure AI services.
 - 💞️ I’m looking an SDE/Data Engineer FTE role right now .
 - 📫 How to reach me Sidshehria@gmail.com
 
