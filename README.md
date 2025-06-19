@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sidshehria
 - 👀 I’m interested in Web-Development, AI/ML.
 - 🌱 Java, C#, pythion, Springboot, Kafka, .NET, Microsoft Azure AI services.
-- 💞️ I’m looking an SDE/Data Engineer FTE role right now .
+- 💞️ I’m a Graduate Enginee Trainee at HFCL ltd. .
 - 📫 How to reach me Sidshehria@gmail.com
 
 <!---
